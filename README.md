@@ -43,7 +43,7 @@ Using **Python** for data cleaning, analysis, and SARIMA forecasting, and **Tabl
 
 ## 📈 Interactive Dashboard  
 👉 View the live Tableau Dashboard here:  
-[**AQI Dashboard (Tableau Public)**](https://public.tableau.com/app/profile/hemal.sri.v/viz/Book2_17580423211950/AQIDashboard?publish=yes)  
+[**AQI Dashboard (Tableau Public)**](https://public.tableau.com/app/profile/hemal.sri.v/viz/AirQualityIndexAnalysis_17581269840360/AQIDashboard)  
 
 ---
 
