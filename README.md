@@ -52,7 +52,4 @@ Source: [Kaggle – Air Quality Data in India (2015–2020)](https://www.kaggle.
 
 ---
 
-## 👩‍💻 Author  
-Hemal Sri V  
-- [GitHub](https://github.com/sroowo)  
-- [LinkedIn](https://www.linkedin.com/in/hemal-sri-v/)  
+
